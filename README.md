@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulianAntunes
-- 👀 I’m interested in Software Engineer.
+- 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on Software developer.
 - 📫 How to reach me https://www.linkedin.com/in/julianferraz/
